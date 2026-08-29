@@ -1,0 +1,15 @@
+Total Scores Processed: 12
+Input Scores: [88, 92, 76, 45, 99, 63, 81, 57, 94, 79, 72, 85]
+Invalid Lines Size: 5
+Invalid Lines: [book, -10, 109, oops,  ]
+
+Average Score: 77.58
+Highest Score: 99
+Lowest Score: 45
+
+Grade Distribution: 
+A (90-100):     3
+B (80-89):      3
+C (70-79):      3
+D (60-69):      1
+F (below 60):   2
